@@ -23,6 +23,8 @@
 </ol>
 
 <p>
-  Contributions are welcome! <br> thanks to visit on my repository>
+  Contributions are welcome! <br> thanks to visit on my repository
 </p>
-<p> <img src="image1.jpeg" > <img src='image2.jpeg' > <img src="image3.jpeg"></p>
+<img src="image1.png" > 
+<img src='image2.png' > 
+<img src="image3.png">
